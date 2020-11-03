@@ -14,7 +14,7 @@ Hit me up for collaborations,competitions and coding.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about **AI , ML, Neural Networks, Competitive Coding, Content Writing and Books**
 - 📫 How to reach me: 
-    *  [On Linkedin](www.linkedin.com/in/r-sree-ranjani-b89210180)
+    *  [On Linkedin](https://www.linkedin.com/in/r-sree-ranjani-b89210180/)
     *  [On wordpress](https://heyfolk.home.blog/)
     *  [On mail](mailto:ranjanibabu25@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
     *  [On my website](http://sreeranjani.pythonanywhere.com/)
