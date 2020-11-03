@@ -8,10 +8,10 @@ Hit me up for collaborations,competitions and coding.
 
 
 
-- 🔭 I’m currently working on 
+<!--- 🔭 I’m currently working on -->
 - 🌱 I’m currently learning **React and NodeJs**
 - 👯 I’m looking to collaborate on **Machine Learning,Web and Mobile App development**
-- 🤔 I’m looking for help with ...
+<!--- 🤔 I’m looking for help with ... -->
 - 💬 Ask me about **AI , ML, Neural Networks, Competitive Coding, Content Writing and Books**
 - 📫 How to reach me: 
     *  [On Linkedin](https://www.linkedin.com/in/r-sree-ranjani-b89210180/)
