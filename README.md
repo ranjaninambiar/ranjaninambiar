@@ -40,4 +40,4 @@ Hit me up for collaborations,competitions and coding.
 ![Numpy Badge](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter Badge](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
-![](https://komarev.com/ghpvc/?username=ranjiparker&label=PROFILE+VIEWS)
+<!--![](https://komarev.com/ghpvc/?username=ranjiparker&label=PROFILE+VIEWS)-->
