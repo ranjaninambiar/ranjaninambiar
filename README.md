@@ -1,6 +1,6 @@
 ### Bonjour👋
-## This is Sree Ranjani,a junior pursuing Computer Science and Engineering at University and an Incoming SWE Intern at Microsoft. 
-Fascinated by the applications of AI and data science,currently working on a research paper in NLP.A passionate learner and AI enthusiast, I'm exploring into the fields of **Neural Networks and Deep Learning**. Blogger and content creator for Wordpress and Medium.When not at work, you'll find me curled up with a book.
+## This is Sree Ranjani,a senior pursuing Computer Science and Engineering at University and an Ex-SWE Intern at Microsoft. 
+Fascinated by the applications of AI and data science,currently working on a research paper in NLP. A passionate learner and an AI enthusiast, I'm exploring into the fields of **Neural Networks and Deep Learning**. Blogger and content creator for Wordpress and Medium. When not at work, you'll find me curled up with a book.
 Hit me up for collaborations,competitions and coding.
 
 
