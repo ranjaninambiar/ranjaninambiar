@@ -1,7 +1,5 @@
-### Bonjour👋
-## This is Sree Ranjani,a senior pursuing Computer Science and Engineering at University and an Ex-SWE Intern at Microsoft. 
-Fascinated by the applications of AI and data science,currently working on a research paper in NLP. A passionate learner and an AI enthusiast, I'm exploring into the fields of **Neural Networks and Deep Learning**. Blogger and content creator for Wordpress and Medium. When not at work, you'll find me curled up with a book.
-Hit me up for collaborations,competitions and coding.
+
+### Hi! I'm Ranjani, a Senior pursuing Computer Science and Engineering at University and an Ex-SWE Intern at Microsoft.
 
 
 <!-- **ranjiparker/ranjiparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -9,17 +7,11 @@ Hit me up for collaborations,competitions and coding.
 
 
 <!--- 🔭 I’m currently working on -->
-- 🌱 I’m currently learning **React and C#**
-- 👯 I’m looking to collaborate on **Machine Learning,Web and Mobile App development**
-<!--- 🤔 I’m looking for help with ... -->
-- 💬 Ask me about **AI , ML, Neural Networks, Competitive Coding, Content Writing and Books**
+- 🌱 I’m currently working on research using Ontologies.
 - 📫 How to reach me: 
     *  [On Linkedin](https://www.linkedin.com/in/r-sree-ranjani-b89210180/)
-    *  [On wordpress](https://heyfolk.home.blog/)
-    *  [On mail](mailto:ranjanibabu25@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-    *  [On my website](http://sreeranjani.pythonanywhere.com/)
-- 😄 Favorite words: **Petrichor, Hiraeth, Epiphany, Maktub**
-- ⚡ Moto: **Life is a game of Tetris,stop playing it like Chess.**
+    *  [Or send your mail my way](mailto:ranjanibabu25@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- ⚡ Moto: **Life is a game of Tetris, stop playing it like Chess.**
 - 🔭 I’m familiar working with  
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
