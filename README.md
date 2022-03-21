@@ -1,5 +1,5 @@
 
-### Hi! I'm Ranjani, a Senior pursuing Computer Science and Engineering at University and an Ex-SWE Intern at Microsoft.
+### Hi! I'm Ranjani, a Senior pursuing Computer Science and Engineering at University and a SWE Intern at Microsoft.
 
 
 <!-- **ranjiparker/ranjiparker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
@@ -10,7 +10,7 @@
 - 🌱 I’m currently working on research using Ontologies.
 - 📫 How to reach me: 
     *  [On Linkedin](https://www.linkedin.com/in/r-sree-ranjani-b89210180/)
-    *  [Or send your mail my way](mailto:ranjanibabu25@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+    *  [Or send your mail my way](mailto:ranjanibabu25@gmail.com?subject=Inquiry%20Email%20message%20from%20Github)
 - ⚡ Moto: **Life is a game of Tetris, stop playing it like Chess.**
 - 🔭 I’m familiar working with  
 ![Android Badge](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
@@ -31,5 +31,11 @@
 ![Pandas Badge](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy Badge](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![Jupyter Badge](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Azure Badge](https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white)
+![Jquery Badge](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
+![Latex Badge](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
 
-<!--![](https://komarev.com/ghpvc/?username=ranjiparker&label=PROFILE+VIEWS)-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjiparker&langs_count=5)](https://github.com/ranjiparker/github-readme-stats)
+<!-- ![Sree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjiparker&show_icons=true&theme=radical) -->
+<!-- ![](https://komarev.com/ghpvc/?username=ranjiparker&label=PROFILE+VIEWS) -->
