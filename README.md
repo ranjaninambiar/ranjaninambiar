@@ -37,5 +37,5 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjiparker&langs_count=5)](https://github.com/ranjiparker/github-readme-stats)
-<!-- ![Sree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjiparker&show_icons=true&theme=radical) -->
-<!-- ![](https://komarev.com/ghpvc/?username=ranjiparker&label=PROFILE+VIEWS) -->
+<!-- ![Sree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjaninambiar&show_icons=true&theme=radical) -->
+<!-- ![](https://komarev.com/ghpvc/?username=ranjaninambiar&label=PROFILE+VIEWS) -->
