@@ -36,6 +36,6 @@
 ![Latex Badge](https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjiparker&langs_count=5)](https://github.com/ranjiparker/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ranjaninambiar&langs_count=5)](https://github.com/ranjaninambiar/github-readme-stats)
 <!-- ![Sree's GitHub stats](https://github-readme-stats.vercel.app/api?username=ranjaninambiar&show_icons=true&theme=radical) -->
 <!-- ![](https://komarev.com/ghpvc/?username=ranjaninambiar&label=PROFILE+VIEWS) -->
